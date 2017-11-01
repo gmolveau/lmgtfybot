@@ -1,5 +1,5 @@
 {
-  "name": "Unofficial LMGTFY facebook messenger Bot",
+  "name": "Unofficial LMGTFY Bot",
   "description": "An unofficial LMGTFY facebook messenger bot using NodeJS and Express 4",
   "repository": "https://github.com/gmolveau/lmgtfybot",
   "logo": "https://i.imgur.com/YmHBwA2.png",
